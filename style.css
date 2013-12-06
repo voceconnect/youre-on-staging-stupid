@@ -1,0 +1,13 @@
+#your-on-staging{
+	position: fixed;
+	z-index: 100; 
+	bottom: 0; 
+	left: 0;
+	width: 100%;
+	text-align: center;
+	background-color: #D4F89F;
+	color: #FF6A00;
+	font-size: 16px;
+	border: 2px solid #FF6A00;
+	padding: 8px;
+}
